@@ -1,7 +1,7 @@
 package test
 
 import (
-	"github.com/VINDA-98/memCache/cache"
+	"github.com/VINDA-98/go-in-memory-cache/cache"
 	"math"
 	"strconv"
 	"testing"

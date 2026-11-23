@@ -2,7 +2,7 @@ package test
 
 import (
 	"fmt"
-	"github.com/VINDA-98/memCache/cache"
+	"github.com/VINDA-98/go-in-memory-cache/cache"
 	"log"
 	"testing"
 )

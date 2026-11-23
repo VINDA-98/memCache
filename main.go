@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/VINDA-98/memCache/cache_server"
+	"github.com/VINDA-98/go-in-memory-cache/cache_server"
 	"log"
 )
 
