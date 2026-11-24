@@ -2,7 +2,7 @@
 
 [简体中文](README.zh-CN.md)
 
-An in-process key-value cache written in Go. The demo uses a small cache API to set and retrieve Go values, delete entries, count keys, and clear the cache.
+An in-process Go key-value cache with a small API for writing, reading, deleting and counting entries or clearing the store. The implementation is an exercise in tracking entry size and expiry.
 
 ## Implementation
 
